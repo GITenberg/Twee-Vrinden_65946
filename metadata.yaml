@@ -1,16 +1,21 @@
 _repo: Twee-Vrinden_65946
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Wijthoff, Anna Catharina Frederika
     gutenberg_agent_id: '53562'
     url: http://www.gutenberg.org/2009/agents/53562
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Delden, Bertha Elisabeth van Osselen-van
     gutenberg_agent_id: '53561'
     url: http://www.gutenberg.org/2009/agents/53561
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65946#Twee-Vrinden
 gutenberg_issued: '2021-07-28'
 gutenberg_type: Text
 identifiers:
